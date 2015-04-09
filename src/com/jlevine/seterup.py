@@ -1,5 +1,6 @@
 import rtm
 
+# TODO: jlevine - Squash this commit and all the previous stupid Markdown issue commits together. I should be embarrassed.
 # TODO: jlevine - Maybe find a way to get these constants dynamically from the user on the command-line.
 APIKEY = '816d569942411f52e9c63268f2238ece'
 SHARED_SECRET = 'fcc2f9c553c64df6'
